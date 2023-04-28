@@ -1,0 +1,6 @@
+# arquivos a serem ignorados
+.DS_Store
+*.pyc
+__pycache__/
+venv/
+*.env

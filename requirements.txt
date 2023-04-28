@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+SQLAlchemy==1.4.32
+fastapi==0.95.0
+pydantic==1.10.6
+typing-extensions==4.5.0
