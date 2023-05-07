@@ -24,7 +24,7 @@ Com isso, para rodar o projeto em sua máquina local siga as etapas abaixo:
 
 1. Uitlize o prompt de comando para Clonar o repositório em um diretório da sua preferência:
 ```
-git clone https://github.com/insper-classroom/23-1-projeto-sql-insper-inside-team.git
+git clone https://github.com/RicardoMourao-py/FastAPI_Filmes.git
 ```
 2. Crie seu ambiente virtual no prompt
 ```
